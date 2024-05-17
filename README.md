@@ -31,12 +31,12 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 ## Referências
 
-- [Santander 2024 - Criando Jogos com Godot]([https://web.dio.me/track/codigo-godot-curso-completo](https://web.dio.me/track/santander-2024-criando-jogos-com-godot])
+- [Santander 2024 - Criando Jogos com Godot] ([https://web.dio.me/track/codigo-godot-curso-completo](https://web.dio.me/track/santander-2024-criando-jogos-com-godot)
 
 ## Contato
 
 Se você tiver alguma dúvida ou quiser discutir mais sobre o projeto:
 
-Felipe Soares Calderaro - [Felipe Calderaro](https://www.linkedin.com/in/felipe-calderaro/) - felipecalderaro28@gmail.com
+[Felipe Calderaro](https://www.linkedin.com/in/felipe-calderaro/) - felipecalderaro28@gmail.com
 
 Link do Projeto: [(https://github.com/calderar0/godot-hello-world)](https://github.com/calderar0/godot-hello-world)
