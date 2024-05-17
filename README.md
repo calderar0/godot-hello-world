@@ -37,6 +37,6 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 Se você tiver alguma dúvida ou quiser discutir mais sobre o projeto:
 
-Seu Nome - [@seu-usuario-no-twitter](https://twitter.com/seu-usuario-no-twitter) - seu-email@example.com
+Felipe Soares Calderaro - [Felipe Calderaro](https://www.linkedin.com/in/felipe-calderaro/) - felipecalderaro28@gmail.com
 
-Link do Projeto: [(https://github.com/calderar0/godot-hello-world)]((https://github.com/calderar0/godot-hello-world))
+Link do Projeto: [(https://github.com/calderar0/godot-hello-world)](https://github.com/calderar0/godot-hello-world)
