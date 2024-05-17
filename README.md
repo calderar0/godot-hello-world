@@ -1,4 +1,4 @@
-# Projeto GODOT com GDScript
+# Hello World com GDScript
 
 Este é um projeto simples desenvolvido em GDScript utilizando a plataforma GODOT, baseado no curso da Digital Innovation One (DIO). O objetivo do projeto é introduzir a plataforma GODOT e a linguagem de script GDScript.
 
